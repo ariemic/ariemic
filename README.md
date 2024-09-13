@@ -27,6 +27,10 @@
 <a href="https://www.gnu.org/software/bash//" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" style="background-color: #fff"/>
 </a>
+<a href="https://ohmyz.sh/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" alt="bash" width="40" height="40" />
+
+</a>
 
 </div>
 >
