@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Ariel </h1>
-<h3 align="center">👨‍🎓 I'm almost a third-year Computer Science student from Poland</h3>
+<h3 align="center">👨‍🎓 I'm a third-year Computer Science student from Poland</h3>
 
 - 🤯 I’m currently exploring **Web Development** with focusing on **React** and diving deeper into **JavaScript**
 - **I'm Linux enthusiast** crying more often then Windows users 😢
