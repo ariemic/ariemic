@@ -2,7 +2,7 @@
 <h3 align="center">👨‍🎓 I'm a third-year Computer Science student from Poland</h3>
 
 - 🤯 I’m currently exploring **Web Development** with focusing on **React** and diving deeper into **JavaScript**
-- **I'm Linux enthusiast** crying more often then Windows users 😢
+- **I'm Linux enthusiast** crying more often than Windows users 😢
 
 <h2 align="center">🚀 Languages and Tools that I've worked with</h2>
 
