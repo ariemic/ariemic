@@ -3,7 +3,7 @@
 
 - 🤯 I’m currently exploring **Web Development** with focusing on **React** and diving deeper into **JavaScript**
 - **I'm Linux enthusiast** crying more often than Windows users 😢
-- Just to be clear **I didn't kill** these animals 🦌
+- Just to be clear **I didn't kill** these animals 🫎 🦌
 
 <h2 align="center">🚀 Languages and Tools that I've worked with</h2>
 
